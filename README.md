@@ -12,6 +12,6 @@ I'm a Dutch full stack developer based in the Netherlands.
 [![instagram](https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caspargeerlings/)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,gatsby,java,kotlin,gradle,swift&perline=4)](https://caspargeerlings.com)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,gatsby,java,kotlin,gradle,swift,php,wordpress&perline=4)](https://caspargeerlings.com)
 ### Currently learning
-[![My Skills](https://skillicons.dev/icons?i=php,wordpress,solidity,cpp&perline=4)](https://caspargeerlings.com)
+[![My Skills](https://skillicons.dev/icons?i=solidity,cpp&perline=4)](https://caspargeerlings.com)
